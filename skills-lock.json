@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "resume-writing": {
+      "source": "resumx/skills",
+      "sourceType": "github",
+      "skillPath": "skills/resume-writing/SKILL.md",
+      "computedHash": "29b63bfdf75c5a0e8759157a7efec635b138ed1bdc3994e00a3070cbe40c1731"
+    },
+    "resumx": {
+      "source": "resumx/skills",
+      "sourceType": "github",
+      "skillPath": "skills/resumx/SKILL.md",
+      "computedHash": "6927c075f5c99846243fe21b4cbbe69e7d3c1f7b5dce87b49b362b6f4c0ac1ff"
+    }
+  }
+}
